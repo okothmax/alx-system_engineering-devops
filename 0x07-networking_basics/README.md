@@ -24,7 +24,7 @@ transfer protocols.
 
 * **1. Types of network**
   * [1-types_of_network](./1-types_of_network): Text file answering the following questions:
-  * What type of network are Holberton iMacs connected to?
+  * What type of network are ALX iMacs connected to?
     1. Internet
     2. WAN
     3. LAN
