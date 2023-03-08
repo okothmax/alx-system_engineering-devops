@@ -50,7 +50,7 @@ with `ps`, `pgrep`, `pkill`, `pkill`, `exit`, and `trap`.
   beyond` indefinitely.
   * Displays `I hate the kill command` upon receiving a `SIGTERM` signal.
   * Displays `Y U no love me?!` upon receiving a `SIGINT` signal.
-  * Deletes the file `/var/run/holbertonscript.pid` and terminates itself
+  * Deletes the file `/var/run/myscript.pid` and terminates itself
   upon receiving the `SIGQUIT` or `SIGTERM` signal.
 
 * **10. Manage my process**
