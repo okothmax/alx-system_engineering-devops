@@ -44,3 +44,4 @@ The server is accessible at [orain.tech](http://orain.tech).
   * Setup is identical to [1-install_nginx_web_server](./1-install_nginx_web_server)
   plus:
     * Features a custom 404 page containing the string `Ceci n'est pas une page`.
+
