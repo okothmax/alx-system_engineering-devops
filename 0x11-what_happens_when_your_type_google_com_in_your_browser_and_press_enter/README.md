@@ -1,0 +1,1 @@
+this repo contains as part of the projrct where i wrote a blog post on what happens when you type google.com on  the browser and press enter
